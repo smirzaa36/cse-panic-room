@@ -11,7 +11,7 @@ Choose a CSE subject, break revision into manageable missions, and use the built
 - **Mission board:** Choose from AI & Machine Learning, Data Structures, Database Systems, and Operating Systems.
 - **Revision checklist:** Track completed missions, add a mission, or reset the checklist.
 - **Progress summary:** View the number of missions completed and the completion percentage.
-- **Emergency focus sprint:** Run a 10-, 15-, or 25-minute focus timer.
+- **Emergency focus sprint:** Run a 10, 15, or 25-minute focus timer.
 - **Flash-card pit stop:** Review cards using previous/next controls and shuffle the deck.
 - **Pop viva:** Practise with short quiz questions.
 - **Theme switcher:** Switch between light and dark themes.
